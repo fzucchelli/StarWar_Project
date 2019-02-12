@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Slider correctly 1`] = `
+<div>
+  <Cards
+    cardStyle={
+      Object {
+        "transform": "translateX(0px)",
+        "width": "0px",
+      }
+    }
+    cardsToShow={Array []}
+  />
+  <div
+    className="icon-btn"
+  >
+    <button
+      onClick={[Function]}
+      style={
+        Object {
+          "color": " grey",
+        }
+      }
+    >
+      <i
+        className="medium material-icons"
+      >
+        chevron_left
+      </i>
+    </button>
+    <button
+      onClick={[Function]}
+      style={
+        Object {
+          "color": " green",
+        }
+      }
+    >
+      <i
+        className="medium material-icons"
+      >
+        chevron_right
+      </i>
+    </button>
+  </div>
+</div>
+`;
